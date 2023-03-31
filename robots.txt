@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://mewoooew.github.io/sitemap.xml
