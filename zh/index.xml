@@ -6,21 +6,22 @@
     <description>Recent content on yoli の 树洞 bot</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Mon, 03 Apr 2023 19:52:08 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 03 Apr 2023 20:14:20 +0800</lastBuildDate>
     
     <atom:link href="https://www.yolichan.fun/zh/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>beginning</title>
-      <link>https://www.yolichan.fun/zh/beginning-zh/</link>
-      <pubDate>Mon, 03 Apr 2023 19:52:08 +0800</pubDate>
+      <title>开始</title>
+      <link>https://www.yolichan.fun/zh/beginning/</link>
+      <pubDate>Mon, 03 Apr 2023 20:14:20 +0800</pubDate>
       
-      <guid>https://www.yolichan.fun/zh/beginning-zh/</guid>
+      <guid>https://www.yolichan.fun/zh/beginning/</guid>
       <description>致 yoli酱： 今天是小站上线的第一天，生日快乐～</description>
       <content:encoded><![CDATA[<hr>
 <h2 id="致-yoli酱">致 yoli酱：</h2>
-<pre><code>今天是小站上线的第一天，生日快乐～</code></pre>
+<pre><code>今天是小站上线的第一天，生日快乐～
+</code></pre>
 ]]></content:encoded>
     </item>
     
