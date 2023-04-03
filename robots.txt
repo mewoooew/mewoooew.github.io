@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://mewoooew.github.io/sitemap.xml
+Sitemap: https://www.yolichan.fun/sitemap.xml

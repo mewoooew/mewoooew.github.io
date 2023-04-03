@@ -2,9 +2,64 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on yoli の 树洞 bot</title>
-    <link>https://mewoooew.github.io/en/tags/</link>
+    <link>https://www.yolichan.fun/en/tags/</link>
     <description>Recent content in Tags on yoli の 树洞 bot</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://mewoooew.github.io/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Mon, 03 Apr 2023 00:00:01 +0800</lastBuildDate><atom:link href="https://www.yolichan.fun/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>emotion</title>
+      <link>https://www.yolichan.fun/en/tag/emotion/</link>
+      <pubDate>Mon, 03 Apr 2023 00:00:01 +0800</pubDate>
+      
+      <guid>https://www.yolichan.fun/en/tag/emotion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>life</title>
+      <link>https://www.yolichan.fun/en/tag/life/</link>
+      <pubDate>Mon, 03 Apr 2023 00:00:01 +0800</pubDate>
+      
+      <guid>https://www.yolichan.fun/en/tag/life/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>loneliness</title>
+      <link>https://www.yolichan.fun/en/tag/loneliness/</link>
+      <pubDate>Mon, 03 Apr 2023 00:00:01 +0800</pubDate>
+      
+      <guid>https://www.yolichan.fun/en/tag/loneliness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>review</title>
+      <link>https://www.yolichan.fun/en/tag/review/</link>
+      <pubDate>Mon, 03 Apr 2023 00:00:01 +0800</pubDate>
+      
+      <guid>https://www.yolichan.fun/en/tag/review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>romance</title>
+      <link>https://www.yolichan.fun/en/tag/romance/</link>
+      <pubDate>Mon, 03 Apr 2023 00:00:01 +0800</pubDate>
+      
+      <guid>https://www.yolichan.fun/en/tag/romance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sense of security</title>
+      <link>https://www.yolichan.fun/en/tag/sense-of-security/</link>
+      <pubDate>Mon, 03 Apr 2023 00:00:01 +0800</pubDate>
+      
+      <guid>https://www.yolichan.fun/en/tag/sense-of-security/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

@@ -2,9 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on yoli の 树洞 bot</title>
-    <link>https://mewoooew.github.io/zh/categories/</link>
+    <link>https://www.yolichan.fun/zh/categories/</link>
     <description>Recent content in Categories on yoli の 树洞 bot</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh</language><atom:link href="https://mewoooew.github.io/zh/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh</language>
+    <lastBuildDate>Mon, 03 Apr 2023 00:00:01 +0800</lastBuildDate><atom:link href="https://www.yolichan.fun/zh/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Album</title>
+      <link>https://www.yolichan.fun/zh/category/album/</link>
+      <pubDate>Mon, 03 Apr 2023 00:00:01 +0800</pubDate>
+      
+      <guid>https://www.yolichan.fun/zh/category/album/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ideas</title>
+      <link>https://www.yolichan.fun/zh/category/ideas/</link>
+      <pubDate>Mon, 03 Apr 2023 00:00:01 +0800</pubDate>
+      
+      <guid>https://www.yolichan.fun/zh/category/ideas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pocket-book</title>
+      <link>https://www.yolichan.fun/zh/category/pocket-book/</link>
+      <pubDate>Mon, 03 Apr 2023 00:00:01 +0800</pubDate>
+      
+      <guid>https://www.yolichan.fun/zh/category/pocket-book/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
