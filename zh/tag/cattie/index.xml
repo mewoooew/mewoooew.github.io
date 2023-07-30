@@ -8,12 +8,12 @@
     <language>zh</language>
     <lastBuildDate>Tue, 25 Jul 2023 20:05:37 +0800</lastBuildDate><atom:link href="https://www.yolichan.fun/zh/tag/cattie/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>logseq 使用笔记</title>
+      <title>人工智能地震学发展概况及思考</title>
       <link>https://www.yolichan.fun/zh/2023/07/25/test/</link>
       <pubDate>Tue, 25 Jul 2023 20:05:37 +0800</pubDate>
       
       <guid>https://www.yolichan.fun/zh/2023/07/25/test/</guid>
-      <description>日记功能 [[Journals]] 跳转某一天 需要结合日历插件 块 [[block]] 基本操作 生成一个块 [enter] 块内换行 [shift]+[enter] 删除 左键选中 [block]+[delete] 一个块包含多个块 [tab] 通过缩进建立从属关系 外观 颜色 灰色原点上</description>
+      <description>测试 地震科技的重要组成部分，中国地震台网链分布广，数据来源广，可以作为地震学AI发展和创新的有效支撑，但与此同时，适用于科研的有效数据只占一</description>
     </item>
     
   </channel>
