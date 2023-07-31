@@ -17,12 +17,21 @@
     </item>
     
     <item>
-      <title>Shortcodes Preview</title>
-      <link>https://www.yolichan.fun/en/2018/03/04/shortcodes-preview/</link>
-      <pubDate>Sun, 04 Mar 2018 16:01:23 +0800</pubDate>
+      <title>存档: hugo 搭建笔记</title>
+      <link>https://www.yolichan.fun/en/2023/07/25/startwithhugo/</link>
+      <pubDate>Tue, 25 Jul 2023 20:05:37 +0800</pubDate>
       
-      <guid>https://www.yolichan.fun/en/2018/03/04/shortcodes-preview/</guid>
-      <description>Twiiter Google Map Figure Globe Highlight for Shells 1# test 2echo test 3# just a test 4echo hello world </description>
+      <guid>https://www.yolichan.fun/en/2023/07/25/startwithhugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Den Theme Preview</title>
+      <link>https://www.yolichan.fun/en/2018/03/06/den-theme-preview/</link>
+      <pubDate>Tue, 06 Mar 2018 16:01:23 +0800</pubDate>
+      
+      <guid>https://www.yolichan.fun/en/2018/03/06/den-theme-preview/</guid>
+      <description>&lt;p&gt;This is a simple preview for styles in Den.&lt;/p&gt;</description>
     </item>
     
   </channel>

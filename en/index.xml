@@ -310,29 +310,146 @@
     </item>
     
     <item>
-      <title>Shortcodes Preview</title>
-      <link>https://www.yolichan.fun/en/2018/03/04/shortcodes-preview/</link>
-      <pubDate>Sun, 04 Mar 2018 16:01:23 +0800</pubDate>
+      <title>存档: hugo 搭建笔记</title>
+      <link>https://www.yolichan.fun/en/2023/07/25/startwithhugo/</link>
+      <pubDate>Tue, 25 Jul 2023 20:05:37 +0800</pubDate>
       
-      <guid>https://www.yolichan.fun/en/2018/03/04/shortcodes-preview/</guid>
-      <description>Twiiter Google Map Figure Globe Highlight for Shells 1# test 2echo test 3# just a test 4echo hello world </description>
-      <content:encoded><![CDATA[<h2 id="twiiter">Twiiter</h2>
-<h2 id="google-map">Google Map</h2>
-<div class="embed googlemaps">
-	<iframe
-		src="https://mapsengine.google.com/map/embed?mid=17_6iCOL6LkRjIFGPKmXBxjsvbBc"
-		frameborder="0"
-		scrolling="no"
-        width="100%"
-        height="400"
-        >
-	</iframe>
-</div>
-
+      <guid>https://www.yolichan.fun/en/2023/07/25/startwithhugo/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>Den Theme Preview</title>
+      <link>https://www.yolichan.fun/en/2018/03/06/den-theme-preview/</link>
+      <pubDate>Tue, 06 Mar 2018 16:01:23 +0800</pubDate>
+      
+      <guid>https://www.yolichan.fun/en/2018/03/06/den-theme-preview/</guid>
+      <description>&lt;p&gt;This is a simple preview for styles in Den.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>This is a simple preview for styles in Den.</p>
+<h2 id="header">Header</h2>
+<p>A paragraph is like this.</p>
+<p>A <code>paragraph</code> <code>might</code> <code>be</code> <code>very</code> very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very <code>long</code>.</p>
+<h3 id="headers">Headers</h3>
+<h4 id="headers-1">Headers</h4>
+<h2 id="highlighted-code-blocks">Highlighted Code Blocks</h2>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-python" data-lang="python"><span class="line"><span class="ln">1</span><span class="cl"><span class="nb">print</span><span class="p">(</span><span class="s1">&#39;hello world&#39;</span><span class="p">)</span>
+</span></span></code></pre></div><h2 id="blockquotes">Blockquotes</h2>
+<blockquote>
+<p>This is a blockquote with two paragraphs. This is first paragraph.</p>
+<p>This is second pragraph.</p>
+</blockquote>
+<h2 id="自定义引用">自定义引用</h2>
+<blockquote class="quote">
+        <p>十里青山远，潮平路带沙。数声啼鸟怨年华。又是凄凉时候，在天涯。白露收残月，清风散晓霞。绿杨堤畔问荷花。记得年时沽酒，那人家。</p></blockquote> 
+<h2 id="lists">Lists</h2>
+<ul>
+<li>Red</li>
+<li>Green</li>
+<li>Blue</li>
+</ul>
+<ol>
+<li>Red</li>
+<li>Green</li>
+<li>Blue
+<ul>
+<li>A</li>
+<li>B</li>
+<li>C
+<ol>
+<li>D</li>
+<li>E</li>
+<li>F</li>
+</ol>
+</li>
+</ul>
+</li>
+</ol>
+<h2 id="task-list">Task List</h2>
+<ul>
+<li><input disabled="" type="checkbox"> a task list item</li>
+<li><input disabled="" type="checkbox"> list syntax <del>required</del></li>
+<li><input disabled="" type="checkbox"> normal <strong>formatting</strong></li>
+<li><input disabled="" type="checkbox"> incomplete</li>
+<li><input checked="" disabled="" type="checkbox"> completed</li>
+</ul>
+<h2 id="formatted-texts">Formatted Texts</h2>
+<table>
+<thead>
+<tr>
+<th>Name</th>
+<th>Markdown</th>
+<th>HTML tag</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><em>Emphasis</em></td>
+<td>*Emphasis*</td>
+<td><code>&lt;em&gt;&lt;/em&gt;</code></td>
+</tr>
+<tr>
+<td><strong>Strong</strong></td>
+<td>**Strong**</td>
+<td><code>&lt;strong&gt;&lt;/strong&gt;</code></td>
+</tr>
+<tr>
+<td><code>code</code></td>
+<td>`code`</td>
+<td><code>&lt;code&gt;&lt;/code&gt;</code></td>
+</tr>
+<tr>
+<td><del>Strikethrough</del></td>
+<td>~~Strikethrough~~</td>
+<td><code>&lt;del&gt;&lt;/del</code></td>
+</tr>
+<tr>
+<td><strong>Underline</strong></td>
+<td>__underline__</td>
+<td><code>&lt;u&gt;&lt;/u&gt;</code></td>
+</tr>
+<tr>
+<td><kbd>Key</kbd></td>
+<td>&lt;kbd&gt;Key&lt;/kbd&gt;</td>
+<td><code>&lt;kbd&gt;&lt;/kbd&gt;</code></td>
+</tr>
+</tbody>
+</table>
+<h2 id="tables">Tables</h2>
+<table>
+<thead>
+<tr>
+<th>A</th>
+<th>B</th>
+<th>C</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>a</td>
+<td>b</td>
+<td>c</td>
+</tr>
+<tr>
+<td>d</td>
+<td>e</td>
+<td>f</td>
+</tr>
+</tbody>
+</table>
+<h2 id="footnotes">Footnotes</h2>
+<p>You can create footnotes like this<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>.</p>
+<h2 id="horizontal-rules">Horizontal Rules</h2>
+<p>A rule.</p>
+<hr>
+<p>A rule.</p>
+<hr>
+<h2 id="links">Links</h2>
+<p>This is <a href="http://example.com/%22Title%22">an example</a> inline link.</p>
 <h2 id="figure">Figure</h2>
 
 <link rel="stylesheet" href="https://www.yolichan.fun/css/hugo-easy-gallery.css" />
-<div class="box aligncenter" style="max-width:300px;">
+<div class="box aligncenter" style="max-width:500px;">
   <figure  itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
     <div class="img">
       <img  itemprop="thumbnail" src="/images/globe.svg" alt="Globe" />
@@ -346,13 +463,14 @@
   </figure>
 </div>
 
-<h2 id="highlight-for-shells">Highlight for Shells</h2>
-<div class="sh-highlight"><div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="ln">1</span><span class="cl"><span class="c1"># test</span>
-</span></span><span class="line hl"><span class="ln">2</span><span class="cl"><span class="nb">echo</span> <span class="nb">test</span>
-</span></span><span class="line"><span class="ln">3</span><span class="cl"><span class="c1"># just a test</span>
-</span></span><span class="line hl"><span class="ln">4</span><span class="cl"><span class="nb">echo</span> hello world</span></span></code></pre></div></div>
-
-]]></content:encoded>
+<div class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1">
+<p>Here is the <em>text</em> of the <strong>footnote</strong>.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</div>]]></content:encoded>
     </item>
     
   </channel>
