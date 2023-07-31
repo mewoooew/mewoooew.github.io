@@ -12,6 +12,31 @@
     
     
     <item>
+      <title>搜索</title>
+      <link>https://www.yolichan.fun/zh/search/</link>
+      <pubDate>Mon, 31 Jul 2023 13:57:23 +0800</pubDate>
+      
+      <guid>https://www.yolichan.fun/zh/search/</guid>
+      <description>站内搜索 请直接在下方的输入框中输入你想要搜索的内容 目前本网站应用 Pagefind 进行搜索，英文准确度较高，若要检索中文，建议把关键词拆分成最多两个字一组，</description>
+      <content:encoded><![CDATA[<h2 id="站内搜索">站内搜索</h2>
+<p><strong>请直接在下方的输入框中输入你想要搜索的内容</strong></p>
+<link href="/search/pagefind-ui.css" rel="stylesheet">
+<script src="/search/pagefind-ui.js" type="text/javascript"></script>
+
+<div id="search"></div>
+<script>
+    window.addEventListener('DOMContentLoaded', (event) => {
+        new PagefindUI({ element: "#search" });
+    });
+</script>
+<br />
+<blockquote>
+<p>目前本网站应用 <a href="https://pagefind.app/">Pagefind</a> 进行搜索，英文准确度较高，若要检索中文，建议把关键词拆分成最多两个字一组，并包含在符号 <code>&quot;</code> 之中。例如若要搜索 <code>区块链</code> 或 <code>智能合约</code>，可以使用 <code>&quot;区块 链&quot;</code> 和 <code>&quot;智能 合约&quot;</code>，可能会有更好的搜索结果。</p>
+</blockquote>
+]]></content:encoded>
+    </item>
+    
+    <item>
       <title>人工智能地震学发展概况及思考</title>
       <link>https://www.yolichan.fun/zh/2023/07/25/test/</link>
       <pubDate>Tue, 25 Jul 2023 20:05:37 +0800</pubDate>
@@ -315,12 +340,8 @@
       <pubDate>Sun, 04 Mar 2018 16:01:23 +0800</pubDate>
       
       <guid>https://www.yolichan.fun/zh/2018/03/04/shortcodes-preview/</guid>
-      <description>Twiiter Hugo 0.24 Released: Big archetype update + @Netlify _redirects etc. file supporthttps://t.co/X94FmYDEZJ #gohugo #golang @spf13 @bepsays
-&amp;mdash; GoHugo.io (@GoHugoIO) June 21, 2017 Google Map Figure Globe Highlight for Shells 1# test 2echo test 3# just a test 4echo hello world </description>
+      <description>Twiiter Google Map Figure Globe Highlight for Shells 1# test 2echo test 3# just a test 4echo hello world </description>
       <content:encoded><![CDATA[<h2 id="twiiter">Twiiter</h2>
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Hugo 0.24 Released: Big archetype update + <a href="https://twitter.com/Netlify?ref_src=twsrc%5Etfw">@Netlify</a> _redirects etc. file support<a href="https://t.co/X94FmYDEZJ">https://t.co/X94FmYDEZJ</a> <a href="https://twitter.com/hashtag/gohugo?src=hash&amp;ref_src=twsrc%5Etfw">#gohugo</a> <a href="https://twitter.com/hashtag/golang?src=hash&amp;ref_src=twsrc%5Etfw">#golang</a> <a href="https://twitter.com/spf13?ref_src=twsrc%5Etfw">@spf13</a> <a href="https://twitter.com/bepsays?ref_src=twsrc%5Etfw">@bepsays</a></p>&mdash; GoHugo.io (@GoHugoIO) <a href="https://twitter.com/GoHugoIO/status/877500564405444608?ref_src=twsrc%5Etfw">June 21, 2017</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 <h2 id="google-map">Google Map</h2>
 <div class="embed googlemaps">
 	<iframe
