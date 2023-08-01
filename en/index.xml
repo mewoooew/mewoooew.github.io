@@ -1,24 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>yoli の 树洞 bot</title>
-    <link>https://www.yolichan.fun/en/</link>
-    <description>Recent content on yoli の 树洞 bot</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Tue, 25 Jul 2023 20:05:37 +0800</lastBuildDate>
-    
-    <atom:link href="https://www.yolichan.fun/en/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>人工智能地震学发展概况及思考</title>
-      <link>https://www.yolichan.fun/en/2023/07/25/test/</link>
-      <pubDate>Tue, 25 Jul 2023 20:05:37 +0800</pubDate>
-      
-      <guid>https://www.yolichan.fun/en/2023/07/25/test/</guid>
-      <description>测试 地震科技的重要组成部分，中国地震台网链分布广，数据来源广，可以作为地震学AI发展和创新的有效支撑，但与此同时，适用于科研的有效数据只占一</description>
-      <content:encoded><![CDATA[<h2 id="测试">测试</h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>yoli の 树洞 bot</title><link>https://www.yolichan.fun/en/</link><description>Recent content on yoli の 树洞 bot</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 25 Jul 2023 20:05:37 +0800</lastBuildDate><atom:link href="https://www.yolichan.fun/en/index.xml" rel="self" type="application/rss+xml"/><item><title>人工智能地震学发展概况及思考</title><link>https://www.yolichan.fun/en/2023/07/25/test/</link><pubDate>Tue, 25 Jul 2023 20:05:37 +0800</pubDate><guid>https://www.yolichan.fun/en/2023/07/25/test/</guid><description>测试 地震科技的重要组成部分，中国地震台网链分布广，数据来源广，可以作为地震学AI发展和创新的有效支撑，但与此同时，适用于科研的有效数据只占一</description><content:encoded><![CDATA[<h2 id="测试">测试</h2>
 <p>地震科技的重要组成部分，中国地震台网链分布广，数据来源广，可以作为地震学AI发展和创新的有效支撑，但与此同时，适用于科研的<code>有效数据</code>只占一小部分，因此面临着数据清洗、成果迁移等难题。仍处于探索阶段，以技术为主，模式有待创新。</p>
 <p>地震科技的重要组成部分，中国地震台网链分布广，数据来源广，可以作为地震学AI发展和创新的有效支撑，但与此同时，适用于科研的有效数据只占一小部分，因此面临着数据清洗、成果迁移等难题。仍处于探索阶段，以技术为主，模式有待创新。</p>
 <p>高亮
@@ -306,27 +286,7 @@
 <blockquote class="quote">
         <p>十里青山远，潮平路带沙。数声啼鸟怨年华。又是凄凉时候，在天涯。白露收残月，清风散晓霞。绿杨堤畔问荷花。记得年时沽酒，那人家。</p></blockquote> 
 <hr>
-]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>存档: hugo 搭建笔记</title>
-      <link>https://www.yolichan.fun/en/2023/07/25/startwithhugo/</link>
-      <pubDate>Tue, 25 Jul 2023 20:05:37 +0800</pubDate>
-      
-      <guid>https://www.yolichan.fun/en/2023/07/25/startwithhugo/</guid>
-      <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>Den Theme Preview</title>
-      <link>https://www.yolichan.fun/en/2018/03/06/den-theme-preview/</link>
-      <pubDate>Tue, 06 Mar 2018 16:01:23 +0800</pubDate>
-      
-      <guid>https://www.yolichan.fun/en/2018/03/06/den-theme-preview/</guid>
-      <description>&lt;p&gt;This is a simple preview for styles in Den.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>This is a simple preview for styles in Den.</p>
+]]></content:encoded></item><item><title>存档: hugo 搭建笔记</title><link>https://www.yolichan.fun/en/2023/07/25/startwithhugo/</link><pubDate>Tue, 25 Jul 2023 20:05:37 +0800</pubDate><guid>https://www.yolichan.fun/en/2023/07/25/startwithhugo/</guid><description/><content:encoded></content:encoded></item><item><title>Den Theme Preview</title><link>https://www.yolichan.fun/en/2018/03/06/den-theme-preview/</link><pubDate>Tue, 06 Mar 2018 16:01:23 +0800</pubDate><guid>https://www.yolichan.fun/en/2018/03/06/den-theme-preview/</guid><description>&lt;p>This is a simple preview for styles in Den.&lt;/p></description><content:encoded><![CDATA[<p>This is a simple preview for styles in Den.</p>
 <h2 id="header">Header</h2>
 <p>A paragraph is like this.</p>
 <p>A <code>paragraph</code> <code>might</code> <code>be</code> <code>very</code> very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very very <code>long</code>.</p>
@@ -470,8 +430,4 @@
 <p>Here is the <em>text</em> of the <strong>footnote</strong>.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
 </ol>
-</div>]]></content:encoded>
-    </item>
-    
-  </channel>
-</rss>
+</div>]]></content:encoded></item></channel></rss>
