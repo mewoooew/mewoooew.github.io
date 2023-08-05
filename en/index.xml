@@ -43,6 +43,11 @@
 <td><code>APP KEY</code></td>
 <td><code>Master Key</code></td>
 </tr>
+<tr>
+<td>~~~~~~~~~~~~~~~</td>
+<td>~~~~~~~~~~~~~~~</td>
+<td>~~~~~~~~~~~~~~~</td>
+</tr>
 </tbody>
 </table>
 </li>
@@ -70,6 +75,11 @@
 <td><code>CNAME</code></td>
 <td><code>comments</code></td>
 <td><code>cname.vercel-dns.com</code></td>
+</tr>
+<tr>
+<td>~~~~~~~~~~~~~~~</td>
+<td>~~~~~~~~~~~~~~~</td>
+<td>~~~~~~~~~~~~~~~</td>
 </tr>
 </tbody>
 </table>
