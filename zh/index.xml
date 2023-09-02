@@ -472,7 +472,7 @@
 <li>域名 - <code>GitHub pages</code>的方式自带一个域名但这里选择绑定自定义域名嗷</li>
 </ul>
 <p>接下来便一一展开这个demo如何实现哒~</p>
-<h3 id="使用hugo安装配置生成静态网站">使用<code>hugo</code>安装\配置\生成静态网站</h3>
+<h3 id="使用hugo安装配置生成静态网站">使用hugo安装\配置\生成静态网站</h3>
 <ul>
 <li>
 <p>安装<code>hugo</code></p>
@@ -526,7 +526,7 @@
 <p><code>hugo</code>还有一大优点就是可以本地调试预览</p>
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-shell" data-lang="shell"><span class="line"><span class="ln">1</span><span class="cl">hugo server -D
 </span></span><span class="line"><span class="ln">2</span><span class="cl"><span class="c1"># -D 参数表示渲染时显示处于草稿draft状态的文章页面</span>
-</span></span></code></pre></div><p>运行后通过在浏览器访问 http://localhost:1313 即可预览网站搭建效果, 之后可以一边修改网站配置一边查看实时效果, 有点所见即所得的意思啦.</p>
+</span></span></code></pre></div><p>运行后通过在浏览器访问 <code>http://localhost:1313</code> 即可预览网站搭建效果, 之后可以一边修改网站配置一边查看实时效果, 有点所见即所得的意思啦.</p>
 </li>
 </ul>
 <h3 id="部署github-pages">部署GitHub Pages</h3>
@@ -706,6 +706,7 @@
 <li><input disabled="" type="checkbox"> 添加自动关联文章功能</li>
 <li><input disabled="" type="checkbox"> 添加回到顶部按钮</li>
 <li><input disabled="" type="checkbox"> 等一个适合的logo</li>
+<li><input disabled="" type="checkbox"> 完善音乐播放等多媒体配置</li>
 </ul>
 <div class="footnotes" role="doc-endnotes">
 <hr>
