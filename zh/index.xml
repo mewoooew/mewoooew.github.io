@@ -527,7 +527,7 @@
 <div class="highlight"><pre tabindex="0" class="chroma"><code class="language-shell" data-lang="shell"><span class="line"><span class="ln">1</span><span class="cl"><span class="c1"># 如果是直接clone的他人的博客项目</span>
 </span></span><span class="line"><span class="ln">2</span><span class="cl">git submodule update --init --recursive
 </span></span></code></pre></div><p>同步本地修改到仓库</p>
-<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-v" data-lang="v"><span class="line"><span class="ln">1</span><span class="cl"><span class="nv">git</span> <span class="nv">submodule</span> <span class="nv">update</span> <span class="o">--</span><span class="nv">remote</span>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="ln">1</span><span class="cl">git submodule update --remote
 </span></span></code></pre></div></li>
 <li>
 <p>主题配置及发布</p>
